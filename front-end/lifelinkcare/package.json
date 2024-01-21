@@ -1,0 +1,24 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "naveed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "html5-qrcode": "^2.3.8",
+    "i": "^0.3.7",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.0",
+    "npm": "^10.3.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  }
+}

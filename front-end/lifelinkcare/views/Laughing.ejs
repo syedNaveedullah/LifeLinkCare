@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laughing Page</title>
+</head>
+<body>
+    <h1>Laughing Page</h1>
+
+    <% audio1.forEach(audio => { %>
+        <audio src="<%= audio.source %>" controls>
+        </audio>
+
+        <video src="<%= audio.source %>" controls></video>
+    <% }) %>
+
+
+    <video src="/lifelinkcare/public/v1.mp4" controls></video>
+</body>
+</html>
