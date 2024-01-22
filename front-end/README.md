@@ -1,2 +1,2 @@
 # lifelinkcare
-awareness among the people by making a scanner
+awareness of medication error in the society
