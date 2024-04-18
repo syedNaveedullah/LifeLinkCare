@@ -27,9 +27,9 @@ Sample QR Codes:
 
 ![qr1](https://github.com/syedNaveedullah/LifeLinkCare3/assets/129250457/af210697-470a-4931-b28b-131bbfd1fa0b)
 ![qr2](https://github.com/syedNaveedullah/LifeLinkCare3/assets/129250457/b7c11b97-4200-47b5-bb47-ea4b18f685e4)
-![qr3](https://github.com/syedNaveedullah/LifeLinkCare3/assets/129250457/6f9605d6-3851-4e55-8663-42e5061c4e03)
-![qr4](https://github.com/syedNaveedullah/LifeLinkCare3/assets/129250457/e5794e91-a6f8-40a4-96a5-742e18aca1b0)
-![qr5](https://github.com/syedNaveedullah/LifeLinkCare3/assets/129250457/4d47d69f-3146-4aa9-84ef-e615998d2679)
+
+
+
 
 
 Interface: 
